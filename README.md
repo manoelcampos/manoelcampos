@@ -21,4 +21,4 @@ Along these years I've worked with lots of technologies and currently I'm a Java
 I love being a teacher and developer. One of my missions is to spread knowledge, good software enginnering practices such as clean code, design patterns, SOLID priciples and more. I pursue to inspire developers to be problem-solvers and to care about the code they write, providing not just code, but value for companies and coworkers.
 
 You can connect to me at http://twitter.com/manoelcampos or just drop a message at https://about.me/manoelcampos.
-You may want to check my [YouTube channel in Brazilian Portuguese here](http://youtube.com/manoelcamposfh).
+You may also want to check my [YouTube channel in Brazilian Portuguese here](http://youtube.com/manoelcamposfh).
