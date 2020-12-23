@@ -22,3 +22,10 @@ I love being a teacher and developer. One of my missions is to spread knowledge,
 
 You can connect to me at http://twitter.com/manoelcampos or just drop a message at https://about.me/manoelcampos.
 You may also want to check my [YouTube channel in Brazilian Portuguese here](http://youtube.com/manoelcamposfh).
+
+## My GitHub Contribution Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manoelcampos&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="vinniciusgomes" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelcampos&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" />
+</p>
