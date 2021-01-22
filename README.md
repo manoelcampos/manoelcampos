@@ -26,6 +26,6 @@ You may also want to check my [YouTube channel in Brazilian Portuguese here](htt
 ## My GitHub Contribution Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manoelcampos&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="manoelcampos" height="160px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelcampos&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manoelcampos&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="manoelcampos" height="168px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelcampos&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22" alt="Top langs" height="168px" />
 </p>
