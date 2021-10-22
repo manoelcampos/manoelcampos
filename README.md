@@ -28,7 +28,12 @@ You may also want to check my [YouTube channel in Brazilian Portuguese here](htt
 
 ## Connect
 
-You can connect to me at http://twitter.com/manoelcampos or just drop a message at https://about.me/manoelcampos.
+Connect to me in my social networks:
+
+- https://twitter.com/manoelcampos
+- https://linkedin.com/in/manoelcampos
+
+You can also just drop a message at https://about.me/manoelcampos
 
 ## My GitHub Contribution Stats
 
