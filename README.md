@@ -20,11 +20,13 @@ I’m always pursuing application of software engineering techniques such as Des
 
 If you want to contract me as a consultant or developer for some cloud computing simulation research project, send me message to **manoelcampos.consulting at gmail**.
 
-You can connect to me at http://twitter.com/manoelcampos or just drop a message at https://about.me/manoelcampos.
-
 ## YouTube Channel
 
 You may also want to check my [YouTube channel in Brazilian Portuguese here](http://youtube.com/manoelcamposfh).
+
+## Connect
+
+You can connect to me at http://twitter.com/manoelcampos or just drop a message at https://about.me/manoelcampos.
 
 ## My GitHub Contribution Stats
 
