@@ -2,25 +2,30 @@
 
 <!--
 **manoelcampos/manoelcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-I'm Manoel Campos, a software engineer for more than 2 decades and a professor at the [Federal Institute of Education, Science and Technology of Tocantins (Brazil)](http://ifto.edu.br).
-Along these years I've worked with lots of technologies and currently I'm a Java expert and learning to love JavaScript and Node.js too (after hating them for so long ☺️).
+I'm Manoel Campos, a Computer Science and Engineering Ph.D candidate at the [Universidade da Beira Interior](https://www.ubi.pt) (Portugal), working with computer-based simulation and resource optimisation in Cloud Computing environments. I'm the creator of [CloudSim Plus](https://cloudsimplus.org), the state-of-the-art cloud computing simulation framework. 
+
+CloudSim Plus is a fully documented, highly extensible, totally re-engineered and full-featured framework. It's very accurate and has impressive performance improvements, enabling breakthrough cloud computing research. The most recent and important cloud simulation tools rely on it as the underlying platform for building and running simulations.
+
+I have a master degree in Electrical Engineering at the [Universidade de Brasília](https://unb.br) (Brazil) in the area of applications and frameworks for Digital Television (DTV). As a result of my master thesis, I developed open source implementations of [HTTP](https://manoelcampos.com/nclua-http/) and [SOAP](https://manoelcampos.com/nclua-soap/) protocols, an [XML parser](https://manoelcampos.com/xml2lua/) for the Brazilian Digital Television System (ISDB-Tb) and a component library for development of interactive DTV applications.
+
+I have a degree in Data Processing Technology at the [Universidade do Tocantins](https://www.unitins.br) (Brazil) where I worked with development of enterprise information systems. I am a professor at the [Federal Institute of Education, Science and Technology of Tocantins](http://ifto.edu.br) (Brazil), working on professional, higher education and specialisation courses since 2003. 
+
+I am a software engineering for more than 2 decades, with experience in several programming languages such as C, PHP, Java, NCL, Lua and Shell Script. I work with object oriented analysis, design and programming. I have experience with agile software development using processes such as Test Driven Development (TDD) in order to increase software quality.
+
+I’m always pursuing application of software engineering techniques such as Design Patterns, SOLID Principles, clean code and refactoring to provide not just software that works, but source code that everybody can understand and maintain. Along these years I've worked with lots of technologies and currently I'm a Java expert and learning to love JavaScript and Node.js too.
 
 I love being a teacher and developer. One of my missions is to spread knowledge, good software enginnering practices such as clean code, design patterns, SOLID priciples and more. I pursue to inspire developers to be problem-solvers and to care about the code they write, providing not just code, but value for companies and coworkers.
 
+## Cloud Computing Simulation Consulting
+
+If you want to contract me as a consultant or developer for some cloud computing simulation research project, send me message to **manoelcampos.consulting at gmail**.
+
 You can connect to me at http://twitter.com/manoelcampos or just drop a message at https://about.me/manoelcampos.
+
+## YouTube Channel
+
 You may also want to check my [YouTube channel in Brazilian Portuguese here](http://youtube.com/manoelcamposfh).
 
 ## My GitHub Contribution Stats
