@@ -16,8 +16,6 @@ I am a software engineering for more than 2 decades, with experience in several 
 
 I’m always pursuing application of software engineering techniques such as Design Patterns, SOLID Principles, clean code and refactoring to provide not just software that works, but source code that everybody can understand and maintain. Along these years I've worked with lots of technologies and currently I'm a Java expert and learning to love JavaScript and Node.js too.
 
-I love being a teacher and developer. One of my missions is to spread knowledge, good software enginnering practices such as clean code, design patterns, SOLID priciples and more. I pursue to inspire developers to be problem-solvers and to care about the code they write, providing not just code, but value for companies and coworkers.
-
 ## Cloud Computing Simulation Consulting
 
 If you want to contract me as a consultant or developer for some cloud computing simulation research project, send me message to **manoelcampos.consulting at gmail**.
