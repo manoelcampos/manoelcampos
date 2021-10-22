@@ -14,9 +14,9 @@ I have a degree in Data Processing Technology at the [Universidade do Tocantins]
 
 I am a software engineering for more than 2 decades, with experience in several programming languages such as C, PHP, Java, NCL, Lua and Shell Script. I work with object oriented analysis, design and programming. I have experience with agile software development using processes such as Test Driven Development (TDD) in order to increase software quality.
 
-I’m always pursuing application of software engineering techniques such as Design Patterns, SOLID Principles, clean code and refactoring to provide not just software that works, but source code that everybody can understand and maintain. Along these years I've worked with lots of technologies and currently I'm a Java expert and learning to love JavaScript and Node.js too.
-
 <a id="consulting"></a>
+
+I’m always pursuing application of software engineering techniques such as Design Patterns, SOLID Principles, clean code and refactoring to provide not just software that works, but source code that everybody can understand and maintain. Along these years I've worked with lots of technologies and currently I'm a Java expert and learning to love JavaScript and Node.js too.
 
 ## Cloud Computing Simulation Consulting
 
