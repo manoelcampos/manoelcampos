@@ -18,7 +18,7 @@ I am a software engineering for more than 2 decades, with experience in several 
 
 ## Cloud Computing Simulation Consulting
 
-If you want to contract me as a consultant or developer for some cloud computing simulation research project, send me message to **manoelcampos.consulting at** ![](gmail.png).
+If you want to contract me as a consultant or developer for some cloud computing simulation research project, send me message to **manoelcampos.consulting at gmail**.
 
 ## YouTube Channel
 
