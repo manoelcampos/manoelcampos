@@ -12,7 +12,7 @@ I have a master degree in Electrical Engineering at the [Universidade de Brasíl
 
 I have a degree in Data Processing Technology at the [Universidade do Tocantins](https://www.unitins.br) (Brazil) where I worked with development of enterprise information systems. I am a professor at the [Federal Institute of Education, Science and Technology of Tocantins](http://ifto.edu.br) (Brazil), working on professional, higher education and specialisation courses since 2003. 
 
-I am a software engineering for more than 2 decades, with experience in several programming languages such as C, PHP, Java, NCL, Lua and Shell Script. I work with object oriented analysis, design and programming. I have experience with agile software development using processes such as Test Driven Development (TDD) in order to increase software quality. Along these years I've worked with lots of technologies and currently I'm a Java expert and learning to love JavaScript and Node.js too.
+I am a software engineering for more than 2 decades, with experience in several programming languages such as C, PHP, Java, NCL, Lua and Shell Script. I work with object oriented analysis, design and programming. I have experience with agile software development using processes such as Test Driven Development (TDD) in order to increase software quality. Along these years I've worked with lots of technologies and currently I'm a Java expert and learning to love JavaScript and Node.js.
 
 <a id="consulting"></a>
 
