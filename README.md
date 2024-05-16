@@ -22,7 +22,7 @@ If you want to contract me as a consultant or developer for some cloud computing
 
 ## YouTube Channel
 
-You may also want to check my [YouTube channel in Brazilian Portuguese here](http://youtube.com/manoelcamposfh).
+You may also want to check my [YouTube channel in Brazilian Portuguese here](https://youtube.com/@manoelcamposdev).
 
 ## Connect
 
