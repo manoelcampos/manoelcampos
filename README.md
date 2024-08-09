@@ -4,7 +4,7 @@
 **manoelcampos/manoelcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Manoel Campos, a Computer Science and Engineering Ph.D candidate at the [Universidade da Beira Interior](https://www.ubi.pt) (Portugal), working with computer-based simulation and resource optimisation in Cloud Computing environments. I'm a [Cloud Computing Simulation Consultant](#consulting) and the creator of [CloudSim Plus](https://cloudsimplus.org), the state-of-the-art cloud computing simulation framework. 
+I'm Manoel Campos, a Computer Engineering Ph.D, working with computer-based simulation and resource optimisation in Cloud Computing environments. I'm the creator of [CloudSim Plus](https://cloudsimplus.org), the state-of-the-art cloud computing simulation framework. 
 
 CloudSim Plus is a fully documented, highly extensible, totally re-engineered and full-featured framework. It's very accurate and has impressive performance improvements, enabling breakthrough cloud computing research. The most recent and important cloud simulation tools rely on it as the underlying platform for building and running simulations.
 
