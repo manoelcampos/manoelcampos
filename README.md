@@ -14,7 +14,8 @@ I am a natural mentor, skilled at guiding others, reviewing code, and fostering 
 
 I am actively seeking a remote Senior Software Engineer or Software Architect role with a US-based company where I can apply my technical leadership and expertise.
 
-## Core Java & JVM
+## Skills
+### Core Java & JVM
 
 * Java
 * Spring Boot
@@ -25,7 +26,7 @@ I am actively seeking a remote Senior Software Engineer or Software Architect ro
 * Design Patterns
 * Multithreading
 
-## Architecture & Systems
+### Architecture & Systems
 
 * Software Architecture
 * Distributed Systems
@@ -34,7 +35,7 @@ I am actively seeking a remote Senior Software Engineer or Software Architect ro
 * Docker
 * DevOps
 
-## Databases
+### Databases
 
 * SQL
 * PostgreSQL
@@ -42,7 +43,7 @@ I am actively seeking a remote Senior Software Engineer or Software Architect ro
 * SQLite
 * JPA, Hibernate
 
-## Developer Tools & Methodologies
+### Developer Tools & Methodologies
 
 * Agile, Scrum
 * Test-Driven Development (TDD)
@@ -52,7 +53,7 @@ I am actively seeking a remote Senior Software Engineer or Software Architect ro
 * Bytecode Manipulation, ByteBuddy
 * Automation Tools
 
-## Soft Skills & Leadership
+### Soft Skills & Leadership
 
 * Ownership
 * Mentorship
