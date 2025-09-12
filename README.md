@@ -12,8 +12,6 @@ I have created open-source frameworks and libraries (e.g., annotation processors
 
 I am a natural mentor, skilled at guiding others, reviewing code, and fostering team efficiency through automation and best practices. I am passionate about writing code that is not only correct but also clean, testable, and maintainable, reducing technical debt and empowering teams to move faster.
 
-I am actively seeking a remote Senior Software Engineer or Software Architect role with a US-based company where I can apply my technical leadership and expertise.
-
 ## Skills
 ### Core Java & JVM
 
