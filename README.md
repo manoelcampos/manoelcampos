@@ -4,16 +4,64 @@
 **manoelcampos/manoelcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm Manoel Campos, a Computer Engineering Ph.D, working with computer-based simulation and resource optimisation in Cloud Computing environments. I'm the creator of [CloudSim Plus](https://cloudsimplus.org), the state-of-the-art cloud computing simulation framework. 
+I am a Senior Java Backend Engineer with 20+ years of experience in software development. My expertise lies in Java, Spring Boot, Quarkus, and REST API development, with a strong focus on software quality, design patterns, SOLID principles, testing, clean code, and code maintainability.
 
-CloudSim Plus is a fully documented, highly extensible, totally re-engineered and full-featured framework. It's very accurate and has impressive performance improvements, enabling breakthrough cloud computing research. The most recent and important cloud simulation tools rely on it as the underlying platform for building and running simulations.
+My background as a professor has given me a deep theoretical understanding of complex topics, including Distributed Systems, Software Architecture, and Data Structures. I have designed and taught comprehensive courses on these subjects, demonstrating my mastery of fundamental principles beyond practical implementation.
 
-I have a master degree in Electrical Engineering at the [Universidade de Brasília](https://unb.br) (Brazil) in the area of applications and frameworks for Digital Television (DTV). As a result of my master thesis, I developed open source implementations of [HTTP](https://manoelcampos.com/nclua-http/) and [SOAP](https://manoelcampos.com/nclua-soap/) protocols, an [XML parser](https://manoelcampos.com/xml2lua/) for the Brazilian Digital Television System (ISDB-Tb) and a component library for development of interactive DTV applications.
+I have created open-source frameworks and libraries (e.g., annotation processors, bytecode manipulation tools with ByteBuddy, and automation utilities) that improve developer productivity. My project CloudSim Plus is used worldwide for cloud computing research and education.
 
-I have a degree in Data Processing Technology at the [Universidade do Tocantins](https://www.unitins.br) (Brazil) where I worked with development of enterprise information systems. I am a professor at the [Federal Institute of Education, Science and Technology of Tocantins](http://ifto.edu.br) (Brazil), working on professional, higher education and specialisation courses since 2003. 
+I am a natural mentor, skilled at guiding others, reviewing code, and fostering team efficiency through automation and best practices. I am passionate about writing code that is not only correct but also clean, testable, and maintainable, reducing technical debt and empowering teams to move faster.
 
-I am a software engineering for more than 2 decades, with experience in several programming languages such as C, PHP, Java, NCL, Lua and Shell Script. I work with object oriented analysis, design and programming. I have experience with agile software development using processes such as Test Driven Development (TDD) in order to increase software quality. Along these years I've worked with lots of technologies and currently I'm a Java expert and learning to love JavaScript and Node.js.
+I am actively seeking a remote Senior Software Engineer or Software Architect role with a US-based company where I can apply my technical leadership and expertise.
 
+## Core Java & JVM
+
+* Java
+* Spring Boot
+* Quarkus
+* RESTful APIs
+* JUnit, Mockito, ArchUnit
+* Concurrency
+* Design Patterns
+* Multithreading
+
+## Architecture & Systems
+
+* Software Architecture
+* Distributed Systems
+* System Design
+* CI/CD (Continuous Integration/Continuous Deployment)
+* Docker
+* DevOps
+
+## Databases
+
+* SQL
+* PostgreSQL
+* MySQL
+* SQLite
+* JPA, Hibernate
+
+## Developer Tools & Methodologies
+
+* Agile, Scrum
+* Test-Driven Development (TDD)
+* Git, GitHub
+* Maven
+* Annotation Processing
+* Bytecode Manipulation, ByteBuddy
+* Automation Tools
+
+## Soft Skills & Leadership
+
+* Ownership
+* Mentorship
+* Technical Leadership
+* Problem-Solving
+* Code Review
+* Continuous Learning
+* Public Speaking
+* Software Quality
 <a id="consulting"></a>
 
 ## Cloud Computing Simulation Consulting
